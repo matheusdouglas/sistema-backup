@@ -16,15 +16,6 @@ const Title = styled.h2`
   margin-bottom: 20px;
 `;
 
-const Input = styled.input`
-  padding: 10px;
-  margin: 10px 0;
-  width: 300px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 16px;
-`;
-
 const Button = styled.button`
   padding: 10px 20px;
   margin-top: 20px;
